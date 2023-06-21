@@ -7,3 +7,6 @@ VanLife is an application which helps people book travel vans for their vacation
 - Detailed description with pricing for each Van
 - Host can see their listed Vans
 - Host can check the income, reviews he earned from this website (Coming Soon)
+
+## Tech Stack
+ReactJS, React Router
